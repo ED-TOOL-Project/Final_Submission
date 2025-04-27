@@ -1,1 +1,1 @@
-This folder contains the Power BI dashboard summarizing the forecasting project, key insights and visualizations.
+This folder contains the Power BI dashboard summarizing the forecasted data, key insights and visualizations.
