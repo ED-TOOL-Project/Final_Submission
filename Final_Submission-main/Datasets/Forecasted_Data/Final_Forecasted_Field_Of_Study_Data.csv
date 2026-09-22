@@ -1,0 +1,391 @@
+year,field_of_study,students,forecasted_students
+2007,Agriculture,8945,
+2007,Business and Management,110041,
+2007,Communications and Journalism,12135,
+2007,Education,17775,
+2007,Engineering,96189,
+2007,Fine and Applied Arts,31727,
+2007,Health Professions,29585,
+2007,Humanities,17460,
+2007,Intensive English,25856,
+2007,Legal Studies and Law Enforcement,7463,
+2007,Math and Computer Science,46313,
+2007,Other Fields of Study,45933,
+2007,Physical and Life Sciences,52867,
+2007,Social Sciences,45535,
+2007,Undeclared,19215,
+2008,Agriculture,8961,
+2008,Business and Management,137495,
+2008,Communications and Journalism,12966,
+2008,Education,18120,
+2008,Engineering,119338,
+2008,Fine and Applied Arts,34854,
+2008,Health Professions,35446,
+2008,Humanities,19179,
+2008,Intensive English,28524,
+2008,Legal Studies and Law Enforcement,9789,
+2008,Math and Computer Science,56367,
+2008,Other Fields of Study,55303,
+2008,Physical and Life Sciences,61699,
+2008,Social Sciences,52631,
+2008,Undeclared,20944,
+2009,Agriculture,10288,
+2009,Business and Management,144294,
+2009,Communications and Journalism,14412,
+2009,Education,18301,
+2009,Engineering,127444,
+2009,Fine and Applied Arts,35807,
+2009,Health Professions,32499,
+2009,Humanities,17993,
+2009,Intensive English,26059,
+2009,Legal Studies and Law Enforcement,10039,
+2009,Math and Computer Science,60800,
+2009,Other Fields of Study,58118,
+2009,Physical and Life Sciences,61311,
+2009,Social Sciences,54853,
+2009,Undeclared,18705,
+2010,Agriculture,9888,
+2010,Business and Management,154452,
+2010,Communications and Journalism,14762,
+2010,Education,16933,
+2010,Engineering,135616,
+2010,Fine and Applied Arts,37237,
+2010,Health Professions,32821,
+2010,Humanities,16263,
+2010,Intensive English,32306,
+2010,Legal Studies and Law Enforcement,10749,
+2010,Math and Computer Science,64588,
+2010,Other Fields of Study,55948,
+2010,Physical and Life Sciences,63471,
+2010,Social Sciences,58345,
+2010,Undeclared,19898,
+2011,Agriculture,9750,
+2011,Business and Management,164943,
+2011,Communications and Journalism,15707,
+2011,Education,17200,
+2011,Engineering,141313,
+2011,Fine and Applied Arts,41710,
+2011,Health Professions,29822,
+2011,Humanities,16294,
+2011,Intensive English,38887,
+2011,Legal Studies and Law Enforcement,11185,
+2011,Math and Computer Science,71364,
+2011,Other Fields of Study,57024,
+2011,Physical and Life Sciences,66007,
+2011,Social Sciences,60974,
+2011,Undeclared,22315,
+2012,Agriculture,10463,
+2012,Business and Management,177741,
+2012,Communications and Journalism,17497,
+2012,Education,17011,
+2012,Engineering,154239,
+2012,Fine and Applied Arts,45850,
+2012,Health Professions,31471,
+2012,Humanities,17121,
+2012,Intensive English,39990,
+2012,Legal Studies and Law Enforcement,11298,
+2012,Math and Computer Science,77560,
+2012,Other Fields of Study,57510,
+2012,Physical and Life Sciences,69152,
+2012,Social Sciences,67786,
+2012,Undeclared,24955,
+2013,Agriculture,10635,
+2013,Business and Management,188179,
+2013,Communications and Journalism,18678,
+2013,Education,17879,
+2013,Engineering,170189,
+2013,Fine and Applied Arts,51195,
+2013,Health Professions,31954,
+2013,Humanities,17930,
+2013,Intensive English,43456,
+2013,Legal Studies and Law Enforcement,12702,
+2013,Math and Computer Science,91434,
+2013,Other Fields of Study,63257,
+2013,Physical and Life Sciences,70479,
+2013,Social Sciences,72390,
+2013,Undeclared,25695,
+2014,Agriculture,12278,
+2014,Business and Management,197258,
+2014,Communications and Journalism,20161,
+2014,Education,17675,
+2014,Engineering,196750,
+2014,Fine and Applied Arts,56758,
+2014,Health Professions,33399,
+2014,Humanities,17504,
+2014,Intensive English,49233,
+2014,Legal Studies and Law Enforcement,13778,
+2014,Math and Computer Science,112950,
+2014,Other Fields of Study,73176,
+2014,Physical and Life Sciences,73838,
+2014,Social Sciences,75951,
+2014,Undeclared,24217,
+2015,Agriculture,12318,
+2015,Business and Management,200312,
+2015,Communications and Journalism,21160,
+2015,Education,19483,
+2015,Engineering,216932,
+2015,Fine and Applied Arts,59736,
+2015,Health Professions,33947,
+2015,Humanities,17664,
+2015,Intensive English,40877,
+2015,Legal Studies and Law Enforcement,15077,
+2015,Math and Computer Science,141651,
+2015,Other Fields of Study,81318,
+2015,Physical and Life Sciences,75385,
+2015,Social Sciences,81304,
+2015,Undeclared,26675,
+2016,Agriculture,12602,
+2016,Business and Management,200754,
+2016,Communications and Journalism,21913,
+2016,Education,17993,
+2016,Engineering,230711,
+2016,Fine and Applied Arts,61506,
+2016,Health Professions,34395,
+2016,Humanities,17561,
+2016,Intensive English,30309,
+2016,Legal Studies and Law Enforcement,15306,
+2016,Math and Computer Science,167180,
+2016,Other Fields of Study,87577,
+2016,Physical and Life Sciences,76838,
+2016,Social Sciences,83046,
+2016,Undeclared,21131,
+2017,Agriculture,12473,
+2017,Business and Management,196054,
+2017,Communications and Journalism,22824,
+2017,Education,17615,
+2017,Engineering,232710,
+2017,Fine and Applied Arts,63795,
+2017,Health Professions,35169,
+2017,Humanities,17040,
+2017,Intensive English,25845,
+2017,Legal Studies and Law Enforcement,16894,
+2017,Math and Computer Science,186003,
+2017,Other Fields of Study,88720,
+2017,Physical and Life Sciences,78700,
+2017,Social Sciences,83708,
+2017,Undeclared,17242,
+2018,Agriculture,13754,
+2018,Business and Management,182170,
+2018,Communications and Journalism,24017,
+2018,Education,16786,
+2018,Engineering,230780,
+2018,Fine and Applied Arts,63097,
+2018,Health Professions,35446,
+2018,Humanities,17013,
+2018,Intensive English,22026,
+2018,Legal Studies and Law Enforcement,16483,
+2018,Math and Computer Science,203461,
+2018,Other Fields of Study,86057,
+2018,Physical and Life Sciences,81580,
+2018,Social Sciences,84320,
+2018,Undeclared,18309,
+2019,Agriculture,13134,
+2019,Business and Management,174470,
+2019,Communications and Journalism,23925,
+2019,Education,15700,
+2019,Engineering,220542,
+2019,Fine and Applied Arts,64501,
+2019,Health Professions,34934,
+2019,Humanities,16992,
+2019,Intensive English,21301,
+2019,Legal Studies and Law Enforcement,16269,
+2019,Math and Computer Science,205207,
+2019,Other Fields of Study,81837,
+2019,Physical and Life Sciences,81971,
+2019,Social Sciences,84440,
+2019,Undeclared,20273,
+2020,Agriculture,12360,
+2020,Business and Management,145658,
+2020,Communications and Journalism,20613,
+2020,Education,15402,
+2020,Engineering,190590,
+2020,Fine and Applied Arts,51101,
+2020,Health Professions,32468,
+2020,Humanities,14702,
+2020,Intensive English,8355,
+2020,Legal Studies and Law Enforcement,11684,
+2020,Math and Computer Science,182106,
+2020,Other Fields of Study,64042,
+2020,Physical and Life Sciences,75029,
+2020,Social Sciences,76419,
+2020,Undeclared,13566,
+2021,Agriculture,12725,
+2021,Business and Management,147293,
+2021,Communications and Journalism,19702,
+2021,Education,15272,
+2021,Engineering,188194,
+2021,Fine and Applied Arts,51136,
+2021,Health Professions,32052,
+2021,Humanities,15204,
+2021,Intensive English,7358,
+2021,Legal Studies and Law Enforcement,13793,
+2021,Math and Computer Science,200301,
+2021,Other Fields of Study,70948,
+2021,Physical and Life Sciences,78712,
+2021,Social Sciences,78770,
+2021,Undeclared,17059,
+2022,Agriculture,13461,
+2022,Business and Management,157281,
+2022,Communications and Journalism,21990,
+2022,Education,15897,
+2022,Engineering,202801,
+2022,Fine and Applied Arts,51689,
+2022,Health Professions,34856,
+2022,Humanities,15783,
+2022,Intensive English,10404,
+2022,Legal Studies and Law Enforcement,16096,
+2022,Math and Computer Science,240230,
+2022,Other Fields of Study,87962,
+2022,Physical and Life Sciences,84830,
+2022,Social Sciences,85998,
+2022,Undeclared,17910,
+2023,Agriculture,,13864
+2023,Business and Management,,156925
+2023,Communications and Journalism,,22531
+2023,Education,,16029
+2023,Engineering,,206359
+2023,Fine and Applied Arts,,51669
+2023,Health Professions,,35612
+2023,Humanities,,16123
+2023,Intensive English,,8589
+2023,Legal Studies and Law Enforcement,,17207
+2023,Math and Computer Science,,249459
+2023,Other Fields of Study,,93535
+2023,Physical and Life Sciences,,85468
+2023,Social Sciences,,86545
+2023,Undeclared,,16973
+2024,Agriculture,,13710
+2024,Business and Management,,155894
+2024,Communications and Journalism,,22291
+2024,Education,,16171
+2024,Engineering,,207716
+2024,Fine and Applied Arts,,50333
+2024,Health Professions,,35587
+2024,Humanities,,15952
+2024,Intensive English,,5980
+2024,Legal Studies and Law Enforcement,,16094
+2024,Math and Computer Science,,249252
+2024,Other Fields of Study,,93924
+2024,Physical and Life Sciences,,85179
+2024,Social Sciences,,86620
+2024,Undeclared,,16403
+2025,Agriculture,,13545
+2025,Business and Management,,154286
+2025,Communications and Journalism,,21563
+2025,Education,,16056
+2025,Engineering,,206396
+2025,Fine and Applied Arts,,49191
+2025,Health Professions,,35467
+2025,Humanities,,15714
+2025,Intensive English,,6920
+2025,Legal Studies and Law Enforcement,,16167
+2025,Math and Computer Science,,256177
+2025,Other Fields of Study,,92346
+2025,Physical and Life Sciences,,85196
+2025,Social Sciences,,86214
+2025,Undeclared,,17103
+2026,Agriculture,,13645
+2026,Business and Management,,154069
+2026,Communications and Journalism,,21511
+2026,Education,,16039
+2026,Engineering,,204743
+2026,Fine and Applied Arts,,49074
+2026,Health Professions,,34997
+2026,Humanities,,15682
+2026,Intensive English,,7559
+2026,Legal Studies and Law Enforcement,,16505
+2026,Math and Computer Science,,258305
+2026,Other Fields of Study,,91284
+2026,Physical and Life Sciences,,85681
+2026,Social Sciences,,86544
+2026,Undeclared,,17149
+2027,Agriculture,,13860
+2027,Business and Management,,154676
+2027,Communications and Journalism,,21971
+2027,Education,,15962
+2027,Engineering,,205567
+2027,Fine and Applied Arts,,49028
+2027,Health Professions,,35087
+2027,Humanities,,15771
+2027,Intensive English,,6607
+2027,Legal Studies and Law Enforcement,,16892
+2027,Math and Computer Science,,262388
+2027,Other Fields of Study,,91172
+2027,Physical and Life Sciences,,86150
+2027,Social Sciences,,87621
+2027,Undeclared,,16875
+2028,Agriculture,,13980
+2028,Business and Management,,154700
+2028,Communications and Journalism,,22115
+2028,Education,,15977
+2028,Engineering,,206137
+2028,Fine and Applied Arts,,48855
+2028,Health Professions,,35284
+2028,Humanities,,15834
+2028,Intensive English,,6283
+2028,Legal Studies and Law Enforcement,,16664
+2028,Math and Computer Science,,271858
+2028,Other Fields of Study,,91366
+2028,Physical and Life Sciences,,86237
+2028,Social Sciences,,87841
+2028,Undeclared,,16883
+2029,Agriculture,,13948
+2029,Business and Management,,154590
+2029,Communications and Journalism,,22026
+2029,Education,,15968
+2029,Engineering,,206386
+2029,Fine and Applied Arts,,48607
+2029,Health Professions,,35296
+2029,Humanities,,15823
+2029,Intensive English,,6750
+2029,Legal Studies and Law Enforcement,,16618
+2029,Math and Computer Science,,275743
+2029,Other Fields of Study,,91527
+2029,Physical and Life Sciences,,86235
+2029,Social Sciences,,87887
+2029,Undeclared,,17015
+2030,Agriculture,,13916
+2030,Business and Management,,154486
+2030,Communications and Journalism,,21875
+2030,Education,,15993
+2030,Engineering,,206507
+2030,Fine and Applied Arts,,48474
+2030,Health Professions,,35333
+2030,Humanities,,15789
+2030,Intensive English,,6723
+2030,Legal Studies and Law Enforcement,,16635
+2030,Math and Computer Science,,275873
+2030,Other Fields of Study,,91568
+2030,Physical and Life Sciences,,86277
+2030,Social Sciences,,87937
+2030,Undeclared,,16984
+2031,Agriculture,,13945
+2031,Business and Management,,154453
+2031,Communications and Journalism,,21888
+2031,Education,,15991
+2031,Engineering,,206351
+2031,Fine and Applied Arts,,48432
+2031,Health Professions,,35289
+2031,Humanities,,15776
+2031,Intensive English,,6426
+2031,Legal Studies and Law Enforcement,,16746
+2031,Math and Computer Science,,278614
+2031,Other Fields of Study,,91546
+2031,Physical and Life Sciences,,86336
+2031,Social Sciences,,88015
+2031,Undeclared,,16934
+2032,Agriculture,,14009
+2032,Business and Management,,154482
+2032,Communications and Journalism,,21987
+2032,Education,,15999
+2032,Engineering,,206348
+2032,Fine and Applied Arts,,48395
+2032,Health Professions,,35249
+2032,Humanities,,15786
+2032,Intensive English,,6477
+2032,Legal Studies and Law Enforcement,,16710
+2032,Math and Computer Science,,281064
+2032,Other Fields of Study,,91523
+2032,Physical and Life Sciences,,86376
+2032,Social Sciences,,88181
+2032,Undeclared,,16955
